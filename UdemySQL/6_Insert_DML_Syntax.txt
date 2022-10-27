@@ -1,0 +1,17 @@
+Insert(Ekleme)
+
+Insert syntax (Kullanım şekli)
+
+ınto(İçine Ekle)
+
+values (deger)
+
+
+insert ınto table (column1,column2,column3,....) values (v1,v2,v3,....)
+
+Not = 
+
+Ekleme İşleminde column1= v1-----------
+Ekleme İşleminde column2= v2----------- Denk Gelmektedir
+Ekleme İşleminde column3= v3-----------
+	     	

@@ -1,0 +1,33 @@
+
+
+
+
+-- hareket tablosu içerisinde þehri adana olan müþterilerin harcamalarýný bula sorgu
+
+
+select * from TBLHAREKET where MUSTERI IN(select MUSTERIID from TBLMUSTERI Where MUSTERISEHIR = 'ADANA')
+
+
+
+-- KÜÇÜK EV ALETLERÝNÝ GETÝREN SORGU KATEGORÝSÝNDEKÝ YAPILAN HARCAMALARI GETÝREN SORGU
+
+SELECT * FROM TBLHAREKET WHERE URUN IN(SELECT URUNID FROM TBLURUNLER WHERE KATEGORI=3)
+
+
+
+
+
+
+
+-- Aþaðýda yazmýþ oldugumuz sorguda beyaz eþyada yapýlmýþ olan bütün satýþlarý getirdik
+
+
+
+
+
+SELECT * FROM TBLHAREKET WHERE URUN IN(SELECT URUNID FROM TBLURUNLER WHERE KATEGORI=(SELECT KATEGORIID FROM TBLKATEGORI WHERE KATEGORIAD='BEYAZ EÞYA'))
+
+
+
+
+

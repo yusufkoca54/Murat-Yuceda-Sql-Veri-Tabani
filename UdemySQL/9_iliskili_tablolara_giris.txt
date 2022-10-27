@@ -1,0 +1,13 @@
+ilişkili tablolara giris 
+
+ilişkili tablolarda 3 tane temel ilişki türü var
+
+-birebir ilişki
+-bireçok ilişki
+-çoka çok ilişki
+
+ilişkili tablolar ne işe yarıyor
+
+- veri karmaşasını önlüyor
+- veri tekrarını önlüyor
+-bellek performansı sağlıyor

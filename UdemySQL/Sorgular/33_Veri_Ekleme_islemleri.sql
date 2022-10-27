@@ -1,0 +1,22 @@
+
+-----------------------------------DML KOMUTLARI---------------------------------------------------
+
+
+
+
+
+insert into TBLKATEGORI (KATEGORIAD) VALUES ('BÝLGÝSAYAR')
+
+insert into TBLKATEGORI (KATEGORIAD) VALUES ('BEYAZ EÞYA')
+
+insert into TBLKATEGORI (KATEGORIAD) VALUES ('KÜÇÜK EV ALETÝ')
+
+insert into TBLKATEGORI (KATEGORIAD) VALUES ('TV')
+
+
+
+
+insert into TBLURUNLER (URUNAD,URUNMARKA,KATEGORI,URUNALISFIYAT,URUNSATISFIYAT,URUNSTOK) values ('BUZDOLABI','SIEMENS',2,4356,4588,10)
+
+
+SELECT * FROM TBLURUNLER

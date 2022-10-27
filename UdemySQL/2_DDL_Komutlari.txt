@@ -1,0 +1,8 @@
+DDL Komutlari(Veri Tanımlama Dili)   Not-->(Tablo Üzerinde Değişiklik)
+
+...................................................
+
+Create(OLuşturmak)
+Alter (Düzenlemek)
+Drop(Silmek)
+

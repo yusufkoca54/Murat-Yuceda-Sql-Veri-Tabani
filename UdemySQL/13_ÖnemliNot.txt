@@ -1,0 +1,17 @@
+Udemy sql içerisinde sorgular klasörü içerisinde bulunan sorguların 1 ile 31 dahil olmak üzere olan sorgular veri tabanı içerisinde
+
+dbogrencinot veri tabanına aittir
+
+
+Udemy sql içerisinde sorgular klasörü içerisinde bulunan sorguların 32 ile 65 dahil olmak üzere olan sorgular veri tabanı içerisinde
+
+satısveritabanı veri tabanına aittir
+
+
+Udemy sql içerisinde sorgular klasörü içerisinde bulunan sorguların 66 ile 87 dahil olmak üzere olan sorgular veri tabanı içerisinde
+
+db_yeni veri tabanına aittir
+
+
+
+

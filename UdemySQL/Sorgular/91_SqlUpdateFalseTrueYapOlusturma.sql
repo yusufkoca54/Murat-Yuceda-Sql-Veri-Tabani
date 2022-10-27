@@ -1,0 +1,1 @@
+update Writers set WriterStatus='true' where WriterStatus='false'

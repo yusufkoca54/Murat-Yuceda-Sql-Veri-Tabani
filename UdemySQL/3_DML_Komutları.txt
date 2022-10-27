@@ -1,0 +1,15 @@
+DML Komutları (Veri Üzerinde Değişiklik Yapmak İçin)
+
+- Select--> Seçme,Listeleme
+
+- Insert--> Ekleme
+
+- Update-->Güncelleme
+
+-Delete-->Silme
+
+-------------------------------------------------
+
+
+
+

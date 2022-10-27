@@ -1,0 +1,9 @@
+Delete (syntax) kullanim sekilleri
+
+
+
+delete from TBLDERSLER 
+
+delete from TBLDERSLER where DERSID=6
+
+delete from TBLDERSLER where DERSAD='algoritma'

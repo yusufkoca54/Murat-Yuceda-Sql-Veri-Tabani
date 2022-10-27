@@ -1,0 +1,18 @@
+Select İfadesinin syntax (Kullanım Şekli)
+
+select * from table
+
+*--> All
+
+from-- > Den Dan
+
+
+
+
+Şartlı İfadeler
+
+where = nerede
+
+and = ve
+
+or = veya

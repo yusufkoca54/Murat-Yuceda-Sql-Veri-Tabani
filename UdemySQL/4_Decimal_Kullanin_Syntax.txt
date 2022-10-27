@@ -1,0 +1,10 @@
+decimal(x,y)
+
+x: virgülden önce basamak sayısı
+y: virgülden sonra basamak sayısı
+
+-- ortalama 78,65
+
+-- decimal (4,2) --> bu ne demek dersek virgülden sonra 2 önce 4 yazmam sebebimiz ise (78,65 --> Burası
+
+toplam 4 basamak dan oluştugu için virgülden öncesine bakmıyoruz sayı verisi olarak geneline bakıyoruz )

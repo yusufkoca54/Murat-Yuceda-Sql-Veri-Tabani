@@ -1,0 +1,7 @@
+Update Komutu (syntax) Kullanım Şekilleri
+
+
+
+update TBLOGRENCILER set OGRCINSIYET='Kız' where OGRID=2
+
+!!!! Where(Şart Unutma)!!!!!

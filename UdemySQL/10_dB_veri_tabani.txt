@@ -1,0 +1,1 @@
+db --  > müşteri,ürün,personel,kategori,satış

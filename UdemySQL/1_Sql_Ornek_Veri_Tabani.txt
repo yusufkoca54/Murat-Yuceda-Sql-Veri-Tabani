@@ -1,0 +1,37 @@
+Öğrenci Sınav Not Bilgileri Veri Tabanında Neler Tutabiliriz-->> DB(Veri Tabanı)
+
+* Öğrenci Bilgileri -- Tables (Tablolarım)
+
+** Ders Bilgileri
+
+*** Sınav Bilgileri
+
+***********************************************
+
+--> Column (Sütun)
+
+--> Row (Satır)
+
+***********************************************
+
+OGRID
+OGRAD
+OGRSOYAD
+OGRKULUP
+OGRCINSIYET
+OGRSEHIR
+
+*******************************************
+
+Veri Türleri
+
+*bit
+*char
+*decimal(18,0)Virgülden Önce Virgülden Sonra
+*int
+*smalldatetime
+*smallint + - 32650
+*tinyint 0-256 arasından (256 dahil değildir)
+*varchar
+
+

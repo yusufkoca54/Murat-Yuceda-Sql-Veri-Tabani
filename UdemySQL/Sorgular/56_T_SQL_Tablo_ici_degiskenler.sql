@@ -1,0 +1,23 @@
+
+
+
+use SatisVeriTabani
+
+
+
+
+select * from TBLMUSTERI
+
+declare @bakiye int
+
+set @bakiye=(select max(MUSTERIBAKIYE) FROM TBLMUSTERI)
+
+SELECT @bakiye
+
+SELECT * FROM TBLURUNLER
+
+DECLARE @STOK int
+
+SET @STOK=(SELECT max(URUNSTOK) FROM TBLURUNLER)
+
+SELECT * FROM TBLURUNLER WHERE URUNSTOK=@STOK
